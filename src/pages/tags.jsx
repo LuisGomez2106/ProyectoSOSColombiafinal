@@ -8,7 +8,7 @@ const Tags = ({ pageContext }) => {
 
   return (
     <Layout>
-      <Header title="Tags Page">Categorias de SOS Colombia</Header>
+      <Header title="Busca noticias según las banderas del paro">Categorias de SOS Colombia</Header>
       <Container>
         <TagsBlock list={tags} />
       </Container>

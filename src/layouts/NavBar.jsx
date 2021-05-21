@@ -59,7 +59,7 @@ const NavBar = () => (
     <Nav>
       <Link to="/">Inicio</Link>
       <Link to="/blog">Blog</Link>
-      <Link to="/banderas">Banderas</Link>
+      
       <Link to="/actividades">Actividades</Link>
       <Link to="/propuestas">Propuestas</Link>
     </Nav>

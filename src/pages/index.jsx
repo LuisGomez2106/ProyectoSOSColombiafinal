@@ -164,7 +164,7 @@ const Index = ({ data }) => {
       </PostWrapper>
         <Titulo><h2>Últimas Publicaciones</h2></Titulo>
 
-       <Calltoactbutton><Titulo><Link to="tags"><button type="button">All Tags</button></Link></Titulo></Calltoactbutton>
+       <Calltoactbutton><Titulo><Link to="tags"><button type="button">Las banderas bajo las cuales nos regimos</button></Link></Titulo></Calltoactbutton>
        
     </Layout>
   );
