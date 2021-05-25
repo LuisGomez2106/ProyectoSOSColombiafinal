@@ -67,7 +67,6 @@ const Copyright= styled.div`
   position: absolute;
   left: 30%;
   top:75%;
-  margin-top:1rem;
   @media(max-width: 700px){
     left:0%;
     top: 0%;

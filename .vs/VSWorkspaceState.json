@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.circleci",
-    "\\.git",
-    "\\.history",
-    "\\config",
     "\\content",
     "\\content\\posts",
-    "\\content\\posts\\2018-10-20",
+    "\\content\\posts\\2018-10-15",
+    "\\content\\posts\\2018-10-16",
+    "\\content\\posts\\2018-10-17",
+    "\\content\\posts\\2018-10-18",
+    "\\content\\posts\\2018-10-19",
     "\\src",
-    "\\src\\pages"
+    "\\src\\components"
   ],
-  "SelectedNode": "\\src\\pages\\index.jsx",
+  "SelectedNode": "\\content\\posts\\2018-10-20\\index.md",
   "PreviewInSolutionExplorer": true
 }
